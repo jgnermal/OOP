@@ -1,4 +1,4 @@
-package prelim;
+package OOP;
 import java.util.Scanner;
 
 class ATM {

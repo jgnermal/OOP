@@ -1,4 +1,4 @@
-package prelim;
+package OOP;
 
 class Professor {
     String Name;
